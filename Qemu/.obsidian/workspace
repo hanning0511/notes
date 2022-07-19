@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "fb08b9864f02a02e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1acbfd80defc129",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "qemu.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af167fcbf05c9eef",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5558bb252a68be8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8542f419be9628c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "06c36cbfb0b3237f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 190
+  },
+  "right": {
+    "id": "64a353088e40198a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b983f6e0632ab3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfcca1def8699938",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "qemu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a1acbfd80defc129",
+  "lastOpenFiles": [
+    "qemu.md",
+    "quickemu.md"
+  ]
+}
