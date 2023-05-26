@@ -65,3 +65,17 @@ with open(file, "r") as f:
     lines = "".join(content[::-1])
     print(lines)
 ```
+
+```python
+import sys
+from collections import deque
+
+
+def tail(filename, n=10):
+    with open(filename) as f:
+        return deque(f, n)
+
+
+for line in tail(sys.argv[1], int(sys.argv[2])):
+    print(line)
+```
