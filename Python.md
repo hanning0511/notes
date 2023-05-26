@@ -39,3 +39,29 @@ else:
         print(f"{count} {line}")
         count += 1
 ```
+
+```python
+import sys
+
+
+file = sys.argv[1]
+nlines = int(sys.argv[2])
+
+
+with open(file, "r") as f:
+    length = f.seek(0, 2)
+    content = []
+    newline_count = 0
+    cursor = length
+    while newline_count < nlines + 1 and cursor > 0:
+        f.seek(cursor, 0)
+        c = f.read(1)
+        cursor = cursor - 1
+        if c == "\n":
+            newline_count += 1
+        if c == "\n" and (newline_count in [1, nlines + 1]):
+            continue
+        content.append(c)
+    lines = "".join(content[::-1])
+    print(lines)
+```
