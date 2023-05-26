@@ -79,3 +79,23 @@ def tail(filename, n=10):
 for line in tail(sys.argv[1], int(sys.argv[2])):
     print(line)
 ```
+
+### 测量Python代码执行时使用的内存
+
+可以使用 Python 的 `resource` 模块来测量一段 Python 代码在执行时所使用的内存量。这个模块中的 `getrusage()` 函数可以用来获取当前进程的资源使用情况。下面是一个示例代码：
+```python
+import resource
+
+def compute_used_memory():
+    return resource.getrusage(resource.RUSAGE_SELF).ru_maxrss
+
+results = {}
+for i in range(10):
+    l = [1] * i * 1000
+    memory = compute_used_memory()
+    results[i] = memory
+
+print(results)
+```
+
+这段代码会输出一个包含程序不同阶段所使用的内存量的字典。`getrusage()` 的输出中的 `ru_maxrss` 字段表示当前进程使用的最大驻留集大小,以千字节 (KB) 为单位。
