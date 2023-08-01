@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "fb435e7bcf1f436d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0864069dd8020a5e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Pyhon 列表排序.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2ffbd9817b9388b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb8ab20bd1edf0f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc03e4fa989eb6b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bba949a501a74e34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ce0b755d0db0bbc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231
+  },
+  "right": {
+    "id": "c528be75d155a79d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a0243b6e1c7c2fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dca861a77aeb70d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pyhon 列表排序.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5480b32845a1fdc2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pyhon 列表排序.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "9c9999421ef1426d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "838e322880306263",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pyhon 列表排序.md"
+              }
+            }
+          },
+          {
+            "id": "120fc8004f076ed6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.00006103515625
+  },
+  "active": "0864069dd8020a5e",
+  "lastOpenFiles": [
+    "Python.md",
+    "Root.md",
+    "Python CSV 文件操作.md",
+    "Bash Parameter Expansion.md",
+    "Bash.md",
+    "Bash 格式化日期、时间打印.md",
+    "Bash FAQ.md",
+    "Bash Style Guide.md",
+    "grubby.md",
+    "Bash 从文件中逐行读取文本.md"
+  ]
+}

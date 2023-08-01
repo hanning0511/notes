@@ -1,0 +1,37 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FarFolder",
+      "TiTemplate",
+      "LiPackage",
+      "TiBrandCss3",
+      "TiBrandPowershell"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true
+  },
+  "Daily": {
+    "iconName": "FarCalendarCheck",
+    "inheritanceIcon": "LiCalendarCheck"
+  },
+  "images": "FarImages",
+  "notes": "FarFileWord",
+  "notes/Bash.md": "TiBrandPowershell",
+  "notes/Bash getoptts.md": "TiBrandPowershell",
+  "notes/CSS 水平和垂直居中.md": "TiBrandCss3",
+  "notes/RPM 命令获取系统安装的所有软件包的列表.md": "LiPackage",
+  "templates": "TiTemplate",
+  "work": "FarFolder"
+}

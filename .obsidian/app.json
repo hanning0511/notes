@@ -1,0 +1,17 @@
+{
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "spellcheck": true,
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "vimMode": false,
+  "attachmentFolderPath": "./",
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
