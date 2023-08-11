@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2c255abefd22de9b",
+        "id": "a0454a90bd78a49d",
         "type": "tabs",
         "children": [
           {
-            "id": "e31a39533e766d7c",
+            "id": "7e636b7e096b260f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/SSAT/SSAT Image Build Service.md",
+                "file": "work/WSR.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "b474f6417ff87b9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Avoid 'reduce' in Python.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,7 +34,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3109d36691fff718",
+            "id": "fdbeb0a043428f23",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CSS",
+                "query": "#reduce",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "c528be75d155a79d",
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Avoid 'reduce' in Python.md",
+                "file": "work/WSR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Avoid 'reduce' in Python.md",
+                "file": "work/WSR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Avoid 'reduce' in Python.md"
+                "file": "work/WSR.md"
               }
             }
           },
@@ -161,11 +148,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,40 +168,42 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "3109d36691fff718",
+  "active": "7e636b7e096b260f",
   "lastOpenFiles": [
+    "Daily/2023-08-11.md",
+    "work/WSR.md",
+    "Daily/2023-08-10.md",
+    "Daily/2023-08-09.md",
+    "Daily/2023-08-08.md",
+    "Daily/2023-08-07.md",
+    "notes/Rust extern 和 use.md",
+    "work/OneCloudHelper/OneCloudHelper.md",
+    "notes/Bash pipefail.md",
+    "notes/Bash What is the purpose of the colon GUN Bash builtin.md",
+    "notes/Bash Style Guide.md",
+    "notes/Bash 从文件中逐行读取文本.md",
+    "notes/Avoid reduce in Python.md",
+    "Daily/2023-08-04.md",
+    "Daily/2023-08-02.md",
+    "templates/note.md",
+    "work/看板.md",
+    "work/未命名.md",
+    "notes/Javascript reduce 操作.md",
+    "Untitled Diagram.svg",
+    "notes/Python 获取 epoch seconds.md",
+    "notes/Python bytes 转换成 string.md",
+    "notes/Python CSV 文件操作.md",
+    "notes/Python 从 STDIN 读取参数.md",
+    "notes/Docker 安装脚本.md",
+    "notes/通过 Javascript 获取 TimeZone 信息.md",
+    "notes/Linux System.md",
+    "work/TSLinker/digram1.svg",
+    "work/TSLinker/diagrams.svg",
     "4913",
-    "work/SSAT/SSAT Image Build Service.md",
-    "notes/Avoid 'reduce' in Python.md",
-    "work/SSAT/start_srf.simics.md",
     "work/SSAT/SSAT.svg",
-    "work/SSAT/SSAT.md",
     "work/SSAT/simics test job lifetime.svg",
-    "work/SSAT/otas_agent.excalidraw.md",
-    "work/SSAT/OS_Image_Build.excalidraw.md",
-    "work/SSAT/modules.excalidraw.md",
-    "work/SSAT/Simics Test Job.md",
-    "Daily/2023-08-01.md",
-    "Daily/2023-07-31.md",
-    "notes/CSS 水平和垂直居中.md",
-    "work/SSAT/Weekly Meetings.md",
     "work/SSAT/images/Pasted image 20230731152613.png",
     "work/SSAT/images",
-    "Daily/2023-07-27.md",
-    "Daily/2023-07-28.md",
-    "work/WSR.md",
-    "work/jz.md",
-    "work/Common.md",
-    "work/Links.md",
-    "work/SPR Regression Test.md",
-    "work/Web Portal.md",
-    "work/Work Notes.md",
-    "notes/Git.md",
-    "Daily/2023-07-26.md",
-    "Daily/2023-07-25.md",
-    "Daily/2023-07-24.md",
-    "work/TSLinker/diagrams.svg",
-    "work/TSLinker/digram1.svg",
     "templates",
     "work/images/Pasted image 20230615135210.png",
     "notes/ssh-tunnel.png",

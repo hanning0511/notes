@@ -1,10 +1,10 @@
 {
   "cssTheme": "Everforest",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "accentColor": "",
   "textFontFamily": "SF Pro Text",
   "nativeMenus": false,
   "interfaceFontFamily": "SF Pro",
   "translucency": false,
-  "baseFontSize": 16
+  "baseFontSize": 18
 }

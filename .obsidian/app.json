@@ -3,8 +3,8 @@
   "readableLineLength": true,
   "spellcheck": true,
   "strictLineBreaks": false,
-  "showLineNumber": false,
-  "vimMode": false,
+  "showLineNumber": true,
+  "vimMode": true,
   "attachmentFolderPath": "./",
   "promptDelete": false,
   "pdfExportSettings": {
@@ -13,5 +13,6 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "showFrontmatter": true
 }
