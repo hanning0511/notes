@@ -1,4 +1,4 @@
-Tags: #node #nvm
+Tags: #node #nvm #yarn
 Refs: https://github.com/nvm-sh/nvm
 ## 安装 nvm
 
@@ -11,4 +11,10 @@ source ~/.bashrc
 
 ```shell
 nvm install --lts
+```
+
+## 安装 `yarn`
+
+```shell
+npm install --global yarn
 ```

@@ -1,10 +1,12 @@
 {
-  "cssTheme": "Everforest",
-  "theme": "obsidian",
+  "cssTheme": "",
+  "theme": "moonstone",
   "accentColor": "",
   "textFontFamily": "SF Pro Text",
-  "nativeMenus": false,
-  "interfaceFontFamily": "SF Pro",
+  "nativeMenus": true,
+  "interfaceFontFamily": "SF Pro,SF Pro Display",
   "translucency": false,
-  "baseFontSize": 18
+  "baseFontSize": 16,
+  "baseFontSizeAction": false,
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono"
 }

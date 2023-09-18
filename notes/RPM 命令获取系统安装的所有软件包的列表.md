@@ -3,5 +3,5 @@ Tags: #redhat #rpm #yum
 ---
 
 ```shell
-$ rpm -qa --qf "%{NAME}\n"
+rpm -qa --qf "%{NAME}\n"
 ```
